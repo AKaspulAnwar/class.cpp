@@ -35,6 +35,7 @@ int main(){
 	itiklaki.ukuranTelur("laki kada bahintalu");
 	itiklaki.jumlahTelur(0);
 	
+	cout <<(itikbini.renang);
 }
 void unggas::suara(string bunyi){
 	cout <<"bunyinya "<<bunyi<<endl;
