@@ -11,7 +11,7 @@ class unggas {
 		void jumlahTelur(int jumlah);
 };
 int main(){
-	unggas ayamlaki,ayambini,itiklaki,itikbini;
+	unggas ayamlaki,ayambini,itiklaki,itikbini,angsalaki,angsabini;
 	ayamlaki.renang	="kada bisa bakunyung ";
 	ayambini.renang ="kada bisa bakunyung ";
 	itiklaki.renang	="harat bakunyung ";
