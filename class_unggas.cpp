@@ -21,6 +21,7 @@ int main(){
 	
 	cout <<(ayambini.renang);
 	ayambini.suara("kutakkutak");
+	ayambini.terbang("kada kawa tinggi ");
 }
 void unggas::suara(string bunyi){
 	cout <<"bunyinya "<<bunyi<<endl;
