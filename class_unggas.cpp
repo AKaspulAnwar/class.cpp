@@ -12,11 +12,14 @@ class unggas {
 };
 int main(){
 	unggas ayamlaki,ayambini;
-	ayamlaki.renang	="kada bisa bakunyung";
-	ayambini.renang ="kada bisa bakunyung";
+	ayamlaki.renang	="kada bisa bakunyung ";
+	ayambini.renang ="kada bisa bakunyung ";
 	
 	cout <<(ayamlaki.renang);
 	ayamlaki.suara("kukuruyuk");
+	
+	cout <<(ayambini.renang);
+	ayambini.suara("kutakkutak");
 }
 void unggas::suara(string bunyi){
 	cout <<"bunyinya "<<bunyi<<endl;
