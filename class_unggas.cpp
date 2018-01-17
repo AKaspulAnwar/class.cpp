@@ -19,6 +19,7 @@ int main(){
 	ayamlaki.suara("kukuruyuk");
 	ayamlaki.terbang("kada kawa tinggi ");
 	ayamlaki.ukuranTelur("laki kada bahintalu");
+	ayamlaki.jumlahTelur(0);
 	
 	cout <<(ayambini.renang);
 	ayambini.suara("kutakkutak");
@@ -33,4 +34,7 @@ int unggas::terbang(string sayap){
 }
 void unggas::ukuranTelur(string ukuran){
 	cout <<"hintalunya: "<<ukuran<<endl;
+}
+void unggas::jumlahTelur(int jumlah){
+	cout <<"bahintalu "<<jumlah<<" butir"<<endl;
 }
