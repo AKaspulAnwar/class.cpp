@@ -25,6 +25,7 @@ int main(){
 	ayambini.suara("kutakkutak");
 	ayambini.terbang("kada kawa tinggi ");
 	ayambini.ukuranTelur("sadang");
+	ayambini.jumlahTelur(15);
 }
 void unggas::suara(string bunyi){
 	cout <<"bunyinya "<<bunyi<<endl;
