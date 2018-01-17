@@ -16,6 +16,8 @@ int main(){
 	ayambini.renang ="kada bisa bakunyung ";
 	itiklaki.renang	="harat bakunyung ";
 	itikbini.renang	="harat bakunyung ";
+	angsalaki.renang="jago bakunyung";
+	angsabini.renang="jago bakunyung";
 	
 	cout <<(ayamlaki.renang);
 	ayamlaki.suara("kukuruyuk");
