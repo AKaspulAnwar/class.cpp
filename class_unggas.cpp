@@ -33,6 +33,8 @@ int main(){
 	itiklaki.suara("gugakgugak");
 	itiklaki.terbang("harat jua tarabang ");
 	itiklaki.ukuranTelur("laki kada bahintalu");
+	itiklaki.jumlahTelur(0);
+	
 }
 void unggas::suara(string bunyi){
 	cout <<"bunyinya "<<bunyi<<endl;
