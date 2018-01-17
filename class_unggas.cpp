@@ -36,6 +36,7 @@ int main(){
 	itiklaki.jumlahTelur(0);
 	
 	cout <<(itikbini.renang);
+	itikbini.suara("gakgakgak");
 }
 void unggas::suara(string bunyi){
 	cout <<"bunyinya "<<bunyi<<endl;
