@@ -17,10 +17,14 @@ int main(){
 	
 	cout <<(ayamlaki.renang);
 	ayamlaki.suara("kukuruyuk");
+	ayamlaki.terbang("kada kawa tinggi ");
 	
 	cout <<(ayambini.renang);
 	ayambini.suara("kutakkutak");
 }
 void unggas::suara(string bunyi){
 	cout <<"bunyinya "<<bunyi<<endl;
+}
+int unggas::terbang(string sayap){
+	cout <<"terbang "<<sayap<<endl;
 }
