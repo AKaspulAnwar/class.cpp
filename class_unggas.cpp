@@ -39,6 +39,7 @@ int main(){
 	itikbini.suara("gakgakgak");
 	itikbini.terbang("harat jua tarabang");
 	itikbini.ukuranTelur("ganal pada ayam");
+	itikbini.jumlahTelur(22);
 }
 void unggas::suara(string bunyi){
 	cout <<"bunyinya "<<bunyi<<endl;
