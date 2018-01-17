@@ -39,15 +39,18 @@ int main(){
 	
 	cout <<(itikbini.renang);
 	itikbini.suara("gakgakgak");
-	itikbini.terbang("harat jua tarabang");
+	itikbini.terbang("harat jua tarabang ");
 	itikbini.ukuranTelur("ganal pada ayam");
 	itikbini.jumlahTelur(22);
 	
 	cout <<(angsalaki.renang);
 	angsalaki.suara("nyuukkk");
+	angsalaki.terbang("sadang haja tarabangnya ");
 	
 	cout <<(angsabini.renang);
 	angsabini.suara("nyaakkk");
+	angsabini.terbang("sadang haja tarabangnya ");
+	
 }
 void unggas::suara(string bunyi){
 	cout <<"bunyinya "<<bunyi<<endl;
