@@ -14,8 +14,8 @@ int main(){
 	unggas ayamlaki,ayambini,itiklaki,itikbini;
 	ayamlaki.renang	="kada bisa bakunyung ";
 	ayambini.renang ="kada bisa bakunyung ";
-	itiklaki.renang	="harat bakunyung";
-	itikbini.renang	="harat bakunyung";
+	itiklaki.renang	="harat bakunyung ";
+	itikbini.renang	="harat bakunyung ";
 	
 	cout <<(ayamlaki.renang);
 	ayamlaki.suara("kukuruyuk");
@@ -30,6 +30,7 @@ int main(){
 	ayambini.jumlahTelur(15);
 	
 	cout <<(itiklaki.renang);
+	itiklaki.suara("gugakgugak");
 }
 void unggas::suara(string bunyi){
 	cout <<"bunyinya "<<bunyi<<endl;
