@@ -46,11 +46,12 @@ int main(){
 	cout <<(angsalaki.renang);
 	angsalaki.suara("nyuukkk");
 	angsalaki.terbang("sadang haja tarabangnya ");
+	angsalaki.ukuranTelur("laki kada bahintalu");
 	
 	cout <<(angsabini.renang);
 	angsabini.suara("nyaakkk");
 	angsabini.terbang("sadang haja tarabangnya ");
-	
+	angsabini.ukuranTelur("ganal banar");
 }
 void unggas::suara(string bunyi){
 	cout <<"bunyinya "<<bunyi<<endl;
