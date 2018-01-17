@@ -11,9 +11,11 @@ class unggas {
 		void jumlahTelur(int jumlah);
 };
 int main(){
-	unggas ayamlaki,ayambini;
+	unggas ayamlaki,ayambini,itiklaki,itikbini;
 	ayamlaki.renang	="kada bisa bakunyung ";
 	ayambini.renang ="kada bisa bakunyung ";
+	itiklaki.renang	="harat bakunyung";
+	itikbini.renang	="harat bakunyung";
 	
 	cout <<(ayamlaki.renang);
 	ayamlaki.suara("kukuruyuk");
