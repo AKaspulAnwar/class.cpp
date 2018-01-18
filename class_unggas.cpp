@@ -58,8 +58,10 @@ int main(){
 	angsabini.jumlahTelur(10);
 	
 	cout <<(puyuhlaki.renang);
+	puyuhlaki.suara("kurrrhhh");
 	
 	cout <<(puyuhbini.renang);
+	puyuhbini.suara("wruuhhh");
 }
 void unggas::suara(string bunyi){
 	cout <<"bunyinya "<<bunyi<<endl;
