@@ -72,8 +72,10 @@ int main(){
 	puyuhbini.jumlahTelur(30);
 	
 	cout <<(belibislaki.renang);
+	belibislaki.suara("ckakckak");
 	
 	cout <<(belibisbini.renang);
+	belibisbini.suara("ckaaakkk");
 }
 void unggas::suara(string bunyi){
 	cout <<"bunyinya "<<bunyi<<endl;
