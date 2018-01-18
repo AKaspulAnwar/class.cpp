@@ -60,10 +60,12 @@ int main(){
 	cout <<(puyuhlaki.renang);
 	puyuhlaki.suara("kurrrhhh");
 	puyuhlaki.terbang("kada bisa tarabang ");
+	puyuhlaki.ukuranTelur("laki kada bahintalu");
 	
 	cout <<(puyuhbini.renang);
 	puyuhbini.suara("wruuhhh");
 	puyuhbini.terbang("kada bisa tarabang ");
+	puyuhbini.ukuranTelur("halus");
 }
 void unggas::suara(string bunyi){
 	cout <<"bunyinya "<<bunyi<<endl;
