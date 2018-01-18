@@ -75,11 +75,13 @@ int main(){
 	belibislaki.suara("ckakckak");
 	belibislaki.terbang("tinggi banar ");
 	belibislaki.ukuranTelur("laki kada bahintalu");
+	belibislaki.jumlahTelur(0);
 	
 	cout <<(belibisbini.renang);
 	belibisbini.suara("ckaaakkk");
 	belibisbini.terbang("tinggi banar ");
 	belibisbini.ukuranTelur("sadang");
+	belibisbini.jumlahTelur(6);
 }
 void unggas::suara(string bunyi){
 	cout <<"bunyinya "<<bunyi<<endl;
