@@ -59,9 +59,11 @@ int main(){
 	
 	cout <<(puyuhlaki.renang);
 	puyuhlaki.suara("kurrrhhh");
+	puyuhlaki.terbang("kada bisa tarabang ");
 	
 	cout <<(puyuhbini.renang);
 	puyuhbini.suara("wruuhhh");
+	puyuhbini.terbang("kada bisa tarabang ");
 }
 void unggas::suara(string bunyi){
 	cout <<"bunyinya "<<bunyi<<endl;
