@@ -56,6 +56,10 @@ int main(){
 	angsabini.terbang("sadang haja tarabangnya ");
 	angsabini.ukuranTelur("ganal banar");
 	angsabini.jumlahTelur(10);
+	
+	cout <<(puyuhlaki.renang);
+	
+	cout <<(puyuhbini.renang);
 }
 void unggas::suara(string bunyi){
 	cout <<"bunyinya "<<bunyi<<endl;
