@@ -70,6 +70,10 @@ int main(){
 	puyuhbini.terbang("kada bisa tarabang ");
 	puyuhbini.ukuranTelur("halus");
 	puyuhbini.jumlahTelur(30);
+	
+	cout <<(belibislaki.renang);
+	
+	cout <<(belibisbini.renang);
 }
 void unggas::suara(string bunyi){
 	cout <<"bunyinya "<<bunyi<<endl;
