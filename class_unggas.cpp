@@ -37,25 +37,25 @@ int main(){
 	
 	cout <<(itiklaki.renang);
 	itiklaki.suara("gugakgugak");
-	itiklaki.terbang("harat jua tarabang ");
+	itiklaki.terbang("harat jua ");
 	itiklaki.ukuranTelur("laki kada bahintalu");
 	itiklaki.jumlahTelur(0);
 	
 	cout <<(itikbini.renang);
 	itikbini.suara("gakgakgak");
-	itikbini.terbang("harat jua tarabang ");
+	itikbini.terbang("harat jua ");
 	itikbini.ukuranTelur("ganal pada ayam");
 	itikbini.jumlahTelur(22);
 	
 	cout <<(angsalaki.renang);
 	angsalaki.suara("nyuukkk");
-	angsalaki.terbang("sadang haja tarabangnya ");
+	angsalaki.terbang("sadang haja ");
 	angsalaki.ukuranTelur("laki kada bahintalu");
 	angsalaki.jumlahTelur(0);
 	
 	cout <<(angsabini.renang);
 	angsabini.suara("nyaakkk");
-	angsabini.terbang("sadang haja tarabangnya ");
+	angsabini.terbang("sadang haja ");
 	angsabini.ukuranTelur("ganal banar");
 	angsabini.jumlahTelur(10);
 	
@@ -67,7 +67,7 @@ int main(){
 	
 	cout <<(puyuhbini.renang);
 	puyuhbini.suara("wruuhhh");
-	puyuhbini.terbang("kada bisa tarabang ");
+	puyuhbini.terbang("kada bisa ");
 	puyuhbini.ukuranTelur("halus");
 	puyuhbini.jumlahTelur(30);
 	
@@ -84,7 +84,7 @@ int main(){
 	belibisbini.jumlahTelur(6);
 }
 void unggas::suara(string bunyi){
-	cout <<"bunyinya "<<bunyi<<endl;
+	cout <<"\nbunyinya "<<bunyi<<endl;
 }
 int unggas::terbang(string sayap){
 	cout <<"terbang "<<sayap<<endl;
